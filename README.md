@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 > I'm an engineer, full stack developer and cyber security enthusiastic. passionate about the learning and understanding computers and humans. I loves to share extensive tech-related knowledge with like-minded people.
 
+> I have huge crush on linux.
+
 #### Code
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
