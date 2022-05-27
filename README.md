@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=PawanGhewande&theme=flat&no-frame=true&margin-w=30" />
+
